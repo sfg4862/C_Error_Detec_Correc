@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\2D Parity Code",
+    "\\Checksum Code",
+    "\\CRC Code",
+    "\\Hamming All",
+    "\\Hamming Code",
+    "\\Hamming Distance",
+    "\\Simple Parity Code"
+  ],
+  "SelectedNode": "\\2D Parity Code\\sender.c",
+  "PreviewInSolutionExplorer": false
+}
