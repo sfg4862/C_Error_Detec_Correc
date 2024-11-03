@@ -7,10 +7,11 @@
 #### Receiver: Ubuntu 20 (Google Cloud Platform Compute Engine)
 
 ##### What method Contains?
-2D Parity Code
-Checksum Code
-CRC Code
-Hamming All
-Hamming Code
-Hamming Distance
-Simple Parity Code
+2D Parity Code  
+Checksum Code  
+CRC Code  
+Hamming All  
+Hamming Code  
+Hamming Distance  
+Simple Parity Code  
+  
